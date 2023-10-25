@@ -1,0 +1,5 @@
+﻿  app.c
+C:\E.S\em\FWD\C projects\Clinic Management System\app.c(27,3): warning C4013: 'gets' undefined; assuming extern returning int
+  main.c
+  Generating Code...
+  Clinic Management System.vcxproj -> C:\E.S\em\FWD\C projects\Clinic Management System\Debug\Clinic Management System.exe
